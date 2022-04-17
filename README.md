@@ -6,7 +6,7 @@ The warnings will be added with sequential negative IDs (Most recent being `-1`)
 
 ## How to use
 
-To get the warnings from MEE6: 
+To get the warnings from MEE6:  
 Note: I have not automated this and I don't have much inclination to give hand-holdy instructions.
 
 1. Login to the MEE6 dashboard
